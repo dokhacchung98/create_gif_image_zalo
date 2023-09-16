@@ -1,0 +1,22 @@
+{
+  "name": "gif",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "canvas": "^2.11.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "gif-encoder": "^0.7.2",
+    "gif.js": "^0.2.0",
+    "gifencoder": "^2.0.1",
+    "gifsicle": "^7.0.1",
+    "puppeteer": "^21.2.1",
+    "sharp": "^0.32.5"
+  }
+}
